@@ -1,5 +1,5 @@
 
-
+>> 关注公众号安安安安卓，免费学知识git commit -m "first commit"
 
 本文我们使用继承 Lazy 和 lazy 关键字实现 Viewbinding 的注入
 
